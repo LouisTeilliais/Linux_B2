@@ -4,7 +4,7 @@
 ## Sommaire
 
 1. [TP 1](TP1)
-    - [Objectifs du TP](objectifs.md)
+    - [Objectifs du TP](TP1/objectifs.md)
     - [Installation de la VM]()
     - Configuration des services réseaux 
     - Mise en place d'un GLPI et configuration 
