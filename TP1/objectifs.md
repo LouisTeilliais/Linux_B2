@@ -19,3 +19,6 @@ De ce côté, nous étions chargé de :
 -  Déterminer si le serveur de messagerie doit être installé sur le même serveur que GLPI 
 - Installer et configurer le service de messagerie 
 - Installer et configurer le plugin d’envoi de mail
+***
+
+Suivant : [Installation de la VM](TP1/installationVM.md)
