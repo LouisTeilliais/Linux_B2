@@ -3,7 +3,7 @@
 
 ## Sommaire
 
-1. [TP 1](TP1/TP1.md)
+1. [TP 1](TP1)
     - [Objectifs du TP](objectifs.md)
     - [Installation de la VM]()
     - Configuration des services réseaux 
