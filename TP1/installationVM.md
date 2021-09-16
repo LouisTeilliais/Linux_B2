@@ -39,5 +39,5 @@ J'ai choisi la version 11.0 de Debian car elle est la dernière version disponib
 
 ***
 
-Précédent : [Objectifs du TP](TP1/objectifs.md) Suivant : [Mise en place d'un GLPI et configuration](TP1/glpi.md)
+Précédent : [Objectifs du TP](objectifs.md) Suivant : [Mise en place d'un GLPI et configuration](glpi.md)
 

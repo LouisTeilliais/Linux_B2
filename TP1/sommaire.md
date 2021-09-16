@@ -4,9 +4,9 @@
 ## Sommaire
 
 1. TP 1
-    - [Objectifs du TP](TP1/objectifs.md)
-    - [Installation de la VM / Configuration des services réseaux ](TP1/installationVM.md)
-    - [Mise en place d'un GLPI et configuration](TP1/glpi.md)
+    - [Objectifs du TP](objectifs.md)
+    - [Installation de la VM / Configuration des services réseaux ](installationVM.md)
+    - [Mise en place d'un GLPI et configuration](glpi.md)
     - Ajout de Fusion Inventory 
     - Mise en place d'un poste client Windows 10 et remonter dans l'inventaire
     - Sauvegarde GPLI 
