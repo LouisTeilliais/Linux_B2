@@ -104,6 +104,7 @@ On arrivait ensuite sur cette page et la configuration peut commencer :
 
 <img src="../images/1.JPG" >
 
+
 On sélectionne donc la langue que l'on veut et on clique "OK".
 
 Le menu suivant est les conditions générales d'utilisation de GLPI : 
@@ -120,7 +121,7 @@ On arrive ensuite sur le début de l'installation
 
 On peut donc cliquer sur "Installer"
 
-
+<br>
 La page d'après est la liste des paquets et vérification de leur installation : 
 
 <img src="../images/4.JPG" >
@@ -165,10 +166,11 @@ Elle confirme l’installation de GLPI et vous donne les logins et mots de passe
 On a ensuite accès a la page de connexion du serveur il suffit de se connecter pour rentrer dans le GLPI. 
 
 <img src="../images/derniereetape.png" >
-
+<center>
 On entrera donc sur cette page : 
+</center>
 
-(a ajouter)
+<img src="../images/capture.jpg" >
 
 ***
 
