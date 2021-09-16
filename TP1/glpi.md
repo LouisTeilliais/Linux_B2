@@ -2,7 +2,9 @@
 
 Nous devions donc installer un serveur GLPI mais qu'est ce qu'un serveur GLPI ? 
 
-    GLPI (Gestionnaire Libre de Parc Informatique) est un logiciel libre de gestion des services informatiques (ITSM) et de gestion des services d'assistance (issue tracking system et ServiceDesk).
+````
+GLPI (Gestionnaire Libre de Parc Informatique) est un logiciel libre de gestion des services informatiques (ITSM) et de gestion des services d'assistance (issue tracking system et ServiceDesk).
+````
 
 L'installation de GLPI se passe en plusieurs étapes : 
 
