@@ -21,4 +21,4 @@ De ce côté, nous étions chargé de :
 - Installer et configurer le plugin d’envoi de mail
 ***
 
-Suivant : [Installation de la VM](TP1/installationVM.md)
+Précédent : [Sommaire](sommaire.md) Suivant : [Installation de la VM](TP1/installationVM.md)
