@@ -38,7 +38,7 @@ En entreprise, je pense que la sauvegarde la plus adapté est tout d'abord de co
 
 Pour ce qui est de la sauvegarde j'ai tout simplement créer un fichier qui se nomme **./backup.sh** et je suis rentré dedans avec **nano backup.sh** puis j'y ai mis le script suivant : 
 
-<img src="../images/backup.png">
+<img src="../images/backup.png" width = 350>
 
 Malheuresement, ce script ne marchait pas et m'as mis des erreurs que beaucoup de personne avait dans la classe. Je n'ai donc pas pu sauvegarder ma base de donnée. Je n'ai pas pu donc, dans la logique, l'automatiser avec **crontab**. 
 
