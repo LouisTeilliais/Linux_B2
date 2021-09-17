@@ -11,7 +11,7 @@ B2 Informatique
 </center>
 
 <center>
-Configuration d'une infrastructure sous Linux
+<h2>Configuration d'une infrastructure sous Linux</h2>
 </center>
 
 <center>
