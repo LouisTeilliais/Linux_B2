@@ -174,4 +174,4 @@ On entrera donc sur cette page :
 
 ***
 
-Précédent : [Installation de la VM / Configuration des services réseaux ](installationVM.md) Suivant : Ajout de Fusion Inventory 
+Précédent : [Installation de la VM / Configuration des services réseaux ](installationVM.md) Suivant : [Ajout de Fusion Inventory](fusioninventory.md)
