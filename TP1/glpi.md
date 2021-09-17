@@ -166,8 +166,8 @@ Elle confirme l’installation de GLPI et vous donne les logins et mots de passe
 On a ensuite accès a la page de connexion du serveur il suffit de se connecter pour rentrer dans le GLPI. 
 
 <img src="../images/derniereetape.png" >
-<center>
-On entrera donc sur cette page : 
+
+<center>On entrera donc sur cette page : 
 </center>
 
 <img src="../images/Capture.jpg" >
