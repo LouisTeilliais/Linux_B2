@@ -19,7 +19,7 @@ Pour le savoir il suffisait de taper cette adresse dans le moteur de recherche :
 
 Si cette page se chargeait : 
 
-<img src="../images/agentok.jpg">
+<img src="../images/agentok.png">
 
 Tout est ok. 
 
@@ -27,7 +27,7 @@ Pour que mon ordinateur soit compté dans l'inventaire Fusion Inventory, j'ai si
 
 Ensuite pour vérifier que mon ordinateur avait bien été pris en compte je me suis rendu sur l'interface GLPI, puis **Administration** -> **FusionInventory** et **Général** -> **Gestion des agents**. 
 
-<img src="../images/inventaireok.jpg">
+<img src="../images/inventaireok.png">
 
 On voit bien que mon PC est apparu donc tout a bien fonctionné. 
 
