@@ -14,5 +14,3 @@
     
 
 ***
-
-[Liens utiles a la réalisation des TP](liensUtiles.md)
