@@ -6,7 +6,8 @@ B2 Informatique
 
 
 <center>
-TP n°1 <br>
+<h1>TP n°1 
+</h1>
 </center>
 
 <center>
