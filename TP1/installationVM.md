@@ -36,14 +36,14 @@ J'ai choisi la version 11.0 de Debian car elle est la dernière version disponib
 
 Pour la configuration réseaux, on a du tout d'abord régler notre VM dans les paramètres réseaux sur **Bridged** qui de base est sur **NAT**, on fait cela pour que notre VM soit considéré comme une machine à part qui est ça propre connexion. 
 
-<img src="../images/bridged.jpg">
+<img src="../images/bridged.png">
 
 Malheureusement, après cette manipulation je n'avais toujours pas une adresse IP sur ma machine donc pas internet. Je ne pouvais donc pas faire de pont SSH. 
 
 La solution que j'ai trouvé pour palier à ce problème, est de me remttre en **NAT** pour pouvoir mettre une adresse IP en "dur". Pour ça, on se rendait dans le dossier **etc/network** puis dans le fichier **interfaces** lui spécifier que la connexion est en DHCP. 
 <br>
 
-<img src="../images/dhcp.jpg">
+<img src="../images/dhcp.png">
 
 Après cela j'ai eu internet sur ma VM. Pour vérifier j'ai tout simplement ping l'adresse de Google **ping 8.8.8.8** et attendu une réponse du serveur. 
 
