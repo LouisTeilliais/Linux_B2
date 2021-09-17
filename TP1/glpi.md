@@ -167,10 +167,9 @@ On a ensuite accès a la page de connexion du serveur il suffit de se connecter 
 
 <img src="../images/derniereetape.png" >
 
-<center>On entrera donc sur cette page : 
-</center>
+On entrera donc sur cette page : 
 
-<img src="../images/Capture.jpg" >
+<img src="../images/Capture.jpg">
 
 ***
 
