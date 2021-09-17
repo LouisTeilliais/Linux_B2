@@ -21,8 +21,9 @@ https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec
 https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec-glpi/5993301-decouvrez-la-gestion-de-parc-avec-glpi
 
 
-
 https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec-glpi/5994176-installez-le-plugin-et-l-agent-fusioninventory
+
+https://www.sauvegardedefichiers.fr/comprendre-les-4-types-de-sauvegarde-des-donnees-les-plus-utilises00813
 
 
 *** 

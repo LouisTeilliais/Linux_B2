@@ -1,6 +1,6 @@
 # Installation de la VM 
 
-Pour commencer ce projet, nous devions tout d'abord mettre en place un environment de travail qui était une VM (machine virtuelle). 
+Pour commencer ce projet, nous devions tout d'abord mettre en place un environnement de travail qui était une VM (machine virtuelle). 
 ***
 ## Qu'est ce qu'une machine virtuelle ? 
 
@@ -34,11 +34,11 @@ J'ai choisi la version 11.0 de Debian car elle est la dernière version disponib
 
 ## Configuration réseaux de la VM 
 
-Pour la configuration réseaux, on a du tout d'abord régler notre VM dans les paramètres réseaux sur **Bridged** qui de base est sur **NAT**, on fait cela pour que notre VM soit considéré comme une machine à part qui est ça propre connexion. 
+Pour la configuration réseaux, on a du tout d'abord régler notre VM dans les paramètres réseaux sur **Bridged** qui de base est sur **NAT**, on fait cela pour que notre VM soit considérée comme une machine à part, qui a ça propre connexion. 
 
 <img src="../images/bridged.png" width =350>
 
-Malheureusement, après cette manipulation je n'avais toujours pas une adresse IP sur ma machine donc pas internet. Je ne pouvais donc pas faire de pont SSH. 
+Malheureusement, après cette manipulation je n'avais toujours pas d'adresse IP sur ma machine donc pas d'internet. Je ne pouvais donc pas faire de pont SSH avec mon PC. 
 
 La solution que j'ai trouvé pour palier à ce problème, est de me remttre en **NAT** pour pouvoir mettre une adresse IP en "dur". Pour ça, on se rendait dans le dossier **etc/network** puis dans le fichier **interfaces** lui spécifier que la connexion est en DHCP. 
 <br>
