@@ -12,7 +12,6 @@
     - [Sauvegarde GPLI](sauvegarde.md)
     - Axes d'amélioration / Conclusion / Annexes 
     
-2. [TP 2](TP2.md)
 
 ***
 
