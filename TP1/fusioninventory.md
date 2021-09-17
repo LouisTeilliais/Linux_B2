@@ -84,4 +84,4 @@ Fusion Inventory est bien installé.
 
 ***
 
-Précédent : [Mise en place d'un GLPI et configuration](glpi.md), Suivant : Mise en place d'un poste client Windows 10 et remonter dans l'inventaire
+Précédent : [Mise en place d'un GLPI et configuration](glpi.md), Suivant : [Mise en place d'un poste client Windows 10 et remonter dans l'inventaire](client.md)
