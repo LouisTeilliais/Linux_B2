@@ -18,7 +18,9 @@ Ensuite on retourne dans le repertoire source **usr/src** puis on va télécharg
 
 ```
 cd /usr/src
+
 wget https://github.com/fusioninventory/fusioninventory-for-glpi/archive/glpi9.3+1.3.tar.gz
+
 tar -zxvf glpi9.3+1.3.tar.gz -C /var/www/html/glpi/plugins 
 
 ```
@@ -62,3 +64,24 @@ Pour résoudre cela il suffit de passer en superutilisateur et rentrer les comma
 crontab -u www-data -e
 ```
 
+Ensuite un choix va se mettre entre 1 et 2, j'ai choisis 1 et un fichier va s'ouvrir et j'ai rajouté cette ligne a la fin du fichier 
+
+```
+/1 * * * * /usr/bin/php5 /var/www/html/glpi/front/cron.php &>/dev/null
+
+````
+
+Puis il fallait finir par relancer **cron**
+
+```
+/etc/init.d/cron restart
+```
+
+Après ça, retour sur la page web puis Configurations -> Actions Automatiques puis chercher la tâche TaskScheduler (en page 2)
+Une fois trouvé, cliquer sur **éxecuter** quand on retourne sur Administration -> Fusion Inventory, le message d'erreur que l'on avait avant a disparu. 
+
+Fusion Inventory est bien installé.
+
+***
+
+Précédent : [Mise en place d'un GLPI et configuration](glpi.md), Suivant : Mise en place d'un poste client Windows 10 et remonter dans l'inventaire
