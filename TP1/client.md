@@ -19,7 +19,7 @@ Pour le savoir il suffisait de taper cette adresse dans le moteur de recherche :
 
 Si cette page se chargeait : 
 
-<img src="../images/agentok.png">
+<img src="../images/agentok.png" width=500>
 
 Tout est ok. 
 
@@ -31,3 +31,6 @@ Ensuite pour vérifier que mon ordinateur avait bien été pris en compte je me 
 
 On voit bien que mon PC est apparu donc tout a bien fonctionné. 
 
+*** 
+
+Précédent : [Ajout de Fusion Inventory](fusioninventory.md), Suivant : [Sauvegarde GPLI](sauvegarde.md)
