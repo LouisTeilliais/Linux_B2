@@ -9,8 +9,8 @@ B2 Informatique
 TP n°1 <br>
 Configuration d'une infrastructure sous Linux
 </center>
-
-
+<br>
+<img src ="images/linux_logo.jpg">
 Linux - Services réseaux <br>
 Clémence Carribaux <br>
 Année scolaire 2021-2022 <br>
