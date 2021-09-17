@@ -170,7 +170,7 @@ On a ensuite accès a la page de connexion du serveur il suffit de se connecter 
 On entrera donc sur cette page : 
 </center>
 
-<img src="../images/capture.jpg" >
+<img src="../images/Capture.jpg" >
 
 ***
 
