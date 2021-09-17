@@ -3,7 +3,7 @@
 
 Louis TEILLIAIS                      
 B2 Informatique
-
+***
 
 <center>
 <h1>TP n°1 
@@ -18,7 +18,9 @@ B2 Informatique
 <img src ="images/linux_logo.jpg">
 </center>
 
+<center>
 Linux - Services réseaux <br>
+</center>
 Clémence Carribaux <br>
 Année scolaire 2021-2022 <br>
 
