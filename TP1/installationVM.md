@@ -32,7 +32,9 @@ J'ai choisi d'utiliser Debian 11.0 comme système d'exploitation Linux plutôt q
 J'ai choisi la version 11.0 de Debian car elle est la dernière version disponible, la plus à jour et celle ou il sera la plus simple de faire les mises à jour.  
 ***
 
-## Configuration de la VM 
+## Configuration réseaux de la VM 
+
+
 
 
 ***
