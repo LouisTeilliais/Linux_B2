@@ -36,7 +36,7 @@ J'ai choisi la version 11.0 de Debian car elle est la dernière version disponib
 
 Pour la configuration réseaux, on a du tout d'abord régler notre VM dans les paramètres réseaux sur **Bridged** qui de base est sur **NAT**, on fait cela pour que notre VM soit considéré comme une machine à part qui est ça propre connexion. 
 
-<img src="../images/bridged.png">
+<img src="../images/bridged.png" width =200>
 
 Malheureusement, après cette manipulation je n'avais toujours pas une adresse IP sur ma machine donc pas internet. Je ne pouvais donc pas faire de pont SSH. 
 
