@@ -83,5 +83,5 @@ Une fois trouvé, cliquer sur **éxecuter** quand on retourne sur Administration
 Fusion Inventory est bien installé.
 
 ***
-
+[Retour Sommaire](sommaire.md) <br>
 Précédent : [Mise en place d'un GLPI et configuration](glpi.md), Suivant : [Mise en place d'un poste client Windows 10 et remonter dans l'inventaire](client.md)

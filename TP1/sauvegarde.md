@@ -43,5 +43,5 @@ Pour ce qui est de la sauvegarde j'ai tout simplement créer un fichier qui se n
 Malheuresement, ce script ne marchait pas et m'as mis des erreurs que beaucoup de personne avait dans la classe. Je n'ai donc pas pu sauvegarder ma base de donnée. Je n'ai pas pu donc, dans la logique, l'automatiser avec **crontab**. 
 
 *** 
-
+[Retour Sommaire](sommaire.md) <br>
 Précédent : [Mise en place d'un poste client Windows 10 et remonter dans l'inventaire](client.md), Suivant : [Axes d'amélioration / Conclusion / Annexes](conclusion.md)

@@ -172,5 +172,5 @@ On entrera sur la page d'accueil de GLPI.
 La première chose que j'ai faite en arrivant sur cette page est de changer directement les mots de passe des comptes administrateur. C'est une choses importante au niveau de la sécurité car pendant la configuration on peut être amené à mettre des mots de passe simple comme : azerty123, azerty, etc.. Les mots de passe forts sont considéres à partir de 8 caractères, pas de nom d'utilisateurs, noms de famille, etc.. Il faut des lettres majucules, minuscules, des chiffres et des caractères spéciaux. 
 
 ***
-
+[Retour Sommaire](sommaire.md) <br>
 Précédent : [Installation de la VM / Configuration des services réseaux ](installationVM.md) Suivant : [Ajout de Fusion Inventory](fusioninventory.md)

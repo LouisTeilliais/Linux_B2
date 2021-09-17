@@ -25,3 +25,7 @@ https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec
 https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec-glpi/5994176-installez-le-plugin-et-l-agent-fusioninventory
 
 
+*** 
+
+Précédent : [Sauvegarde GPLI](sauvegarde.md) <br>
+[Retour Sommaire](sommaire.md) 

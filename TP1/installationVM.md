@@ -51,6 +51,6 @@ Le seul inconvénient de cette méthode est que je ne pouvais pas copier les com
 
 
 ***
-
+[Retour Sommaire](sommaire.md) <br>
 Précédent : [Objectifs du TP](objectifs.md) Suivant : [Mise en place d'un GLPI et configuration](glpi.md)
 

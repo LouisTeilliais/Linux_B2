@@ -33,4 +33,5 @@ On voit bien que mon PC est apparu donc tout a bien fonctionné.
 
 *** 
 
+[Retour Sommaire](sommaire.md) <br>
 Précédent : [Ajout de Fusion Inventory](fusioninventory.md), Suivant : [Sauvegarde GPLI](sauvegarde.md)

@@ -20,5 +20,5 @@ De ce côté, nous étions chargé de :
 - Installer et configurer le service de messagerie 
 - Installer et configurer le plugin d’envoi de mail
 ***
-
+[Retour Sommaire](sommaire.md) <br>
 Précédent : [Sommaire](sommaire.md) Suivant : [Installation de la VM](installationVM.md)
