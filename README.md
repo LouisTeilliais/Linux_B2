@@ -7,7 +7,7 @@ B2 Informatique
 
 <center>
 <h1>TP n°1</h1>
-<h1>Configuration d'une infrastructure sous Linux</h1>
+<h2>Configuration d'une infrastructure sous Linux</h2>
 </center>
 
 
