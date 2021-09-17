@@ -7,8 +7,13 @@ B2 Informatique
 
 <center>
 TP n°1 <br>
-Configuration d'une infrastructure sous Linux
+</center>
 
+<center>
+Configuration d'une infrastructure sous Linux
+</center>
+
+<center>
 <img src ="images/linux_logo.jpg">
 </center>
 Linux - Services réseaux <br>
